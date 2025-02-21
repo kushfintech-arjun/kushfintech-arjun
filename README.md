@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kushfintech Arjun</h1>
 <h3 align="center">A passionate Backend developer from Nepal</h3>
 
-- 🔭 I’m currently working on **GMG**
+- 🔭 I’m currently working on **GMG**  **VisaCenter** **MeroEvents** etc.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
